@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
   cout << "Hello to my World!" << std::endl;
-  return 0;
+  return -1;
 }
 
 void func(){
