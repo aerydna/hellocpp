@@ -3,7 +3,8 @@
 using namespace std;
 
 int main() {
-  return -1;
+    int a;
+    return -1;
 }
 
 void func(){
